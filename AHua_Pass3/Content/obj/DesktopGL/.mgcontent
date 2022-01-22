@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Audio/Music/BgMusic.mp3</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Audio/Music/GameplayMusic.mp3</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Audio/Sound/BulletSfx.wav</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Background/background.jpg</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Background/ColourOverlay.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Background/controlsOverlay.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Background/Title.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Buttons/controls.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Buttons/howToPlay.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Buttons/quit.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Buttons/quitToMenu.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Buttons/resume.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Buttons/start.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Fonts/GeneralFont.spritefont</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Fonts/TitleFont.spritefont</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Game Pieces/blueBullet.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Game Pieces/blueObstacle.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Game Pieces/redBullet.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Game Pieces/redObstacle.png</File>
+    <File>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Game Pieces/rocket.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Buttons/Controls.png</File>
+    <File>Buttons/HowToPlay.png</File>
+    <File>Buttons/Quit.png</File>
+    <File>Buttons/QuitToMenu.png</File>
+    <File>Buttons/Resume.png</File>
+    <File>Buttons/Start.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Game Pieces/BlueBullet.png</File>
+    <File>Game Pieces/BlueObstacle.png</File>
+    <File>Game Pieces/RedBullet.png</File>
+    <File>Game Pieces/RedObstacle.png</File>
+    <File>Game Pieces/Rocket.png</File>
+  </DestFiles>
+</SourceFileCollection>

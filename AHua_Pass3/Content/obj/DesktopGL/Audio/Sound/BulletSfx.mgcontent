@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Audio/Sound/BulletSfx.wav</SourceFile>
+  <SourceTime>2022-01-21T19:06:24.9274866-05:00</SourceTime>
+  <DestFile>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/bin/DesktopGL/Audio/Sound/BulletSfx.xnb</DestFile>
+  <DestTime>2022-01-21T20:25:02.1172824-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

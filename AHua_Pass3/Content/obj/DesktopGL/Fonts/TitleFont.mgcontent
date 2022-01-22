@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/Fonts/TitleFont.spritefont</SourceFile>
+  <SourceTime>2022-01-20T14:59:53.4983381-05:00</SourceTime>
+  <DestFile>C:/Users/amyhu/Desktop/AHua_Pass3/AHua_Pass3/Content/bin/DesktopGL/Fonts/TitleFont.xnb</DestFile>
+  <DestTime>2022-01-21T20:25:03.2273201-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

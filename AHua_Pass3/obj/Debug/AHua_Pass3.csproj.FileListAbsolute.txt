@@ -1,0 +1,58 @@
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\AHua_Pass3.exe.config
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\AHua_Pass3.exe
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\AHua_Pass3.pdb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Animation2D.dll
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\MonoGame.Framework.dll
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\MonoGame.Framework.xml
+E:\AHua_Pass3\AHua_Pass3\obj\Debug\AHua_Pass3.csproj.AssemblyReference.cache
+E:\AHua_Pass3\AHua_Pass3\obj\Debug\AHua_Pass3.csproj.CoreCompileInputs.cache
+E:\AHua_Pass3\AHua_Pass3\obj\Debug\AHua_Pass3.csproj.CopyComplete
+E:\AHua_Pass3\AHua_Pass3\obj\Debug\AHua_Pass3.exe
+E:\AHua_Pass3\AHua_Pass3\obj\Debug\AHua_Pass3.pdb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Background\background.xnb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Background\ColourOverlay.xnb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Buttons\controls.xnb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Buttons\howToPlay.xnb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Buttons\quit.xnb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Buttons\resume.xnb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Buttons\start.xnb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Game Pieces\blueBullet.xnb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Game Pieces\blueObstacle.xnb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Game Pieces\redBullet.xnb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Game Pieces\redObstacle.xnb
+E:\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Game Pieces\rocket.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Background\background.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Background\ColourOverlay.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Buttons\controls.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Buttons\howToPlay.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Buttons\quit.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Buttons\resume.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Buttons\start.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Game Pieces\blueBullet.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Game Pieces\blueObstacle.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Game Pieces\redBullet.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Game Pieces\redObstacle.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Game Pieces\rocket.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\AHua_Pass3.exe.config
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\AHua_Pass3.exe
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\AHua_Pass3.pdb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Animation2D.dll
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\MonoGame.Framework.dll
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\MonoGame.Framework.xml
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\obj\Debug\AHua_Pass3.csproj.AssemblyReference.cache
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\obj\Debug\AHua_Pass3.csproj.CoreCompileInputs.cache
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\obj\Debug\AHua_Pass3.csproj.CopyComplete
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\obj\Debug\AHua_Pass3.exe
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\obj\Debug\AHua_Pass3.pdb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Buttons\quitToMenu.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Background\controlsOverlay.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Fonts\GeneralFont.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Audio\Music\BgMusic.ogg
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Audio\Music\BgMusic.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Background\Title.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Audio\Music\GameplayMusic.ogg
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Audio\Music\GameplayMusic.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Helper.dll
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Audio\Sound Effects\BulletSfx.xnb
+C:\Users\amyhu\Desktop\AHua_Pass3\AHua_Pass3\bin\Debug\Content\Audio\Sound\BulletSfx.xnb
